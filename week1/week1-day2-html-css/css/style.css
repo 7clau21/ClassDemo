@@ -1,15 +1,17 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Georgia", Times New Roman, Times, serif;
   font-size: 25px;
   line-height: 150%;
   color: #333;
   background: #efeee7;
 }
 header {
-  background: #333;
+  background: #333333;
+  font-color: #eee;
 }
+
 h1 {
   padding: 40px 0;
   margin: 0;
@@ -18,9 +20,11 @@ h1 {
   color: #eee;
   text-align: center;
 }
+
 h2 {
   font-size: 35px;
 }
+
 a {
   color: #d21034;
 }
