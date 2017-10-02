@@ -1,0 +1,29 @@
+
+.color-me {
+	background-color: red;
+}
+
+#tall-block {
+	height: 400px;
+	position: relative;
+	background-color: green;
+
+}
+
+#abs-block{
+	position: absolute;
+	right: 15px;
+	bottom: 0;
+
+}
+
+#my-fixed-div{
+
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.color-me{
+	background-color: red;
+}
